@@ -1,0 +1,12 @@
+pydantic==2.7.4
+langgraph
+langchain
+langchain_core
+langchain-openai
+langchain-anthropic
+requests
+pandas
+numpy
+notebook
+ipykernel
+python-dotenv
